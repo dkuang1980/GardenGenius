@@ -1,0 +1,7 @@
+{
+  "name": "GardenGenius - AI Landscape Designer",
+  "description": "Transform your outdoor spaces with AI. Upload your yard, chat with a professional-grade AI architect, and visualize your dream garden in seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
